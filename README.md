@@ -20,4 +20,4 @@ python fish.py
 
 # Image
 
-<img src="Image/Fish.png">
+<img src="Images/Fish.png">
