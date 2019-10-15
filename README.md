@@ -7,6 +7,7 @@ Phising In Termux
 ```
 apt update && apt upgrade -y
 apt install php
+apt install curl
 apt install unzip
 apt install python
 apt install apache2
