@@ -10,6 +10,8 @@ apt install php
 apt install curl
 apt install unzip
 apt install python
+pip install --upgrade pip
+pip install requests
 apt install apache2
 apt install openssh
 git clone https://github.com/TermuxArt/Fish
