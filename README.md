@@ -30,3 +30,8 @@ python fish.py
 <img src="Images/Fish2.png"><br />
 <br />
 <img src="Images/Fish3.png"><br />
+<br />
+# Copyrigh
+```
+TermuxArt 2020 Vol-0.1
+```
