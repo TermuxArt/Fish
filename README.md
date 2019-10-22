@@ -13,8 +13,8 @@ apt install python
 pip install --upgrade pip
 pip install requests
 apt install apache2
-apt install openssh
-git clone https://github.com/TermuxArt/Fish
+apt install openssh autossh
+git clone https://github.com/TermuxArt/Fish.git
 cd Fish
 ls
 unzip Fish.zip
