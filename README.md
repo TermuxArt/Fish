@@ -24,6 +24,7 @@ python fish.py
 # Image
 
 <img src="Images/Fish.png"><br />
+<b>_____________________________________________________<>
 <img src="Images/Fish1.png"><br />
 <img src="Images/Fish2.png"><br />
 <img src="Images/Fish3.png"><br />
